@@ -1,8 +1,16 @@
-<h1>Hi <img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40" height="40" />, I’m <a href="https://www.linkedin.com/in/никита-зинкевич-b2b72a170/">Nikita Zinkevich</a>!</h1>
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" height="30" />, I’m <a href="https://www.linkedin.com/in/никита-зинкевич-b2b72a170/">Nikita Zinkevich</a>!</h1>
+
+<p>About me 🚀 </p>
+
+<p> - 🌱 I’m Junior Android Developer.<br>
+    - 💪 About one year of experience in mobile app development.<br>
+    - 👨‍💻 I am passionate about Web Dev & I enjoy learning new things. 
+</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitazinkevich&layout=compact)
+
+
+
 
 <!---
 nikitazinkevich/nikitazinkevich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
