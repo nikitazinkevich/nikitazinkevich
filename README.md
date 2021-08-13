@@ -2,9 +2,9 @@
   
 <h3>About me 🚀 </h3>
 
-<p> - 🌱 I’m Junior Android Developer.<br>
-    - 💪 About one year of experience in mobile app development.<br>
-    - 👨‍💻 I am passionate about Mobile Dev & I enjoy learning new things.
+<p> 🌱 I’m Junior Android Developer.<br>
+    💪 About one year of experience in mobile app development.<br>
+    👨‍💻 I am passionate about Mobile Dev & I enjoy learning new things.
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitazinkevich&layout=compact)
